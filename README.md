@@ -6,10 +6,9 @@ venv
 >if there is a Scripts folder, you may have to delete it before create venv
 - go to the project folder, run `python -m venv .`
 - **Activate the venv: `./Scripts/activate`**
-### Install dependencies
+- Install dependencies: run `pip install -r requirements.txt`
 # run:
 - **Activate the venv: `./Scripts/activate`**
-- run `pip install -r requirements.txt`
 ### To create new answear file:
 - run `python ./input.py`
 ### To process any quizz image:
